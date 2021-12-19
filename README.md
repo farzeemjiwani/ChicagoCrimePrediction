@@ -1,6 +1,8 @@
 # ChicagoCrimePrediction
 EDA and Predictive Modelling on the Chicago Crime Dataset using PySpark, Hive and storage using HDFS as part of a Big Data project.  
 
+**Dataset**: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/data
+
 
 **Abstract:**
 We have procured criminal records from the Chicago Police Department’s CLEAR (Citizen Law Enforcement Analysis and Reporting) system. To accomplish our objective of recognizing crime patterns across the city based on geographical locations, we have used Hadoop and Apache Spark to achieve faster data processing and provide near real-time predictive analytics on top of that. The attributes (explained above) comprise the dataset of the system model adopted by our project and will be conducive while plotting the exact locations of the crimes.
